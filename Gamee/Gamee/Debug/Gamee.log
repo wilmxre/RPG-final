@@ -1,0 +1,4 @@
+﻿  Mechanics.c
+D:\c-rpg-trying\Gamee\Gamee\Mechanics.c(14,8): warning C4013: '_getch' undefined; assuming extern returning int
+D:\c-rpg-trying\Gamee\Gamee\Mechanics.c(90,13): warning C4098: 'voting': 'void' function returning a value
+  Gamee.vcxproj -> D:\c-rpg-trying\Gamee\Debug\Gamee.exe
